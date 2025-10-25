@@ -1,0 +1,1 @@
+# This  is a hosipal management system buit on core java and jdbc.  
